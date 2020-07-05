@@ -5,7 +5,7 @@ import pe.edu.upeu.jvm.examen.ResolucionExamen;
 import pe.edu.upeu.jvm.utils.LeerTeclado;
 
 /**
- * Autor SaulyS
+ * 
  *
  */
 public class App {
