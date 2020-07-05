@@ -1,2 +1,0 @@
-# EXAMENSYS
-Mi examen
